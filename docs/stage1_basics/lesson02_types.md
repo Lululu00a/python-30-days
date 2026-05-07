@@ -1,12 +1,8 @@
 # 课时 02：基本数据类型与变量
 
 > 时长：25–30 分钟
-> 状态：⏳ 待编写
-
-## 学习目标
-- 掌握 int / float / bool / str / None
-- 理解"变量是标签而非内存盒子"
-- 熟悉 f-string 与字符串常用方法
-
-## 课后练习
-见 `exercises/lesson02/README.md`
+> 学完本课你将能：
+> 1. 掌握 Python 5 大基础类型：`int / float / bool / str / None`
+> 2. 理解"变量是标签而非内存盒子"的本质
+> 3. 区分 `is` 与 `==` 的差别
+> 4. 熟练使用 f-string 格式化字
