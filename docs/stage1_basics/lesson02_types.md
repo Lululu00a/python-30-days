@@ -214,3 +214,4 @@ print(f"sum={a+b:.2f}, avg={(a+b)/2:.2f}")
 
 → 完成 `exercises/lesson02/README.md` 中的练习
 → 做完后看 `solutions/lesson02/` 对照答案
+
