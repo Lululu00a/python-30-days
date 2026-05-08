@@ -37,13 +37,14 @@ Python 版本：3.11.7
 工作目录：D:\Videos\pythonTools\python-30-days\exercises\lesson01
 解释器路径：D:\Videos\pythonTools\python-30-days\.venv\Scripts\python.exe
 ```
-
+> 💡 **提示**：工作目录不在 lesson01 文件夹下是因为工作目录是你运行脚本时所在的位置，而不是脚本文件所在的位置。
 ---
 
 ## 练习 3：思考题（写文档）
 
 在本目录下创建 `exercise3_thinking.md`，用 200 字以内回答：
 > 为什么 Python 不需要 `main` 函数也能运行？这种设计的优缺点是什么？
+> 💡 python是一种解释型语言， 逐行解释；优点： 脚本灵活，快速验证想法； 缺点： 大型项目易找不到入口；模块被 `import` 时，顶层代码会被立即执行，可能产生副作用
 
 提示思考方向：
 - 解释型 vs 编译型
